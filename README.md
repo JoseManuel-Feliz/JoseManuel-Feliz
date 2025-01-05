@@ -11,13 +11,13 @@
 
 > 👨‍💻 **Junior Full-Stack Web Developer focused on continuous improvement**
 >
-> 🌐 Proficient in HTML, CSS, JavaScript, PHP, Vue.js, Laravel, REST APIs, Sass, and Bootstrap.
+> 💻 Proficient in HTML, CSS, JavaScript, PHP, Vue.js, Laravel, REST APIs, Sass, and Bootstrap.
 >
 > 🌱 I strive to keep learning and growing both as a developer and as a person.
 >
 > 🤝 I value teamwork, tackling challenges with a positive mindset, and learning from every collaboration.
 >
-> ⚙️ Outside of coding, I’m deeply interested in mechanics and baseball. I enjoy learning how machines function and diving into the practical aspects of mechanical systems.
+> 🔧 Outside of coding, I’m deeply interested in mechanics and baseball. I enjoy learning how machines function and diving into the practical aspects of mechanical systems.
 
 ---
 
