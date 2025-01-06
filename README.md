@@ -29,56 +29,56 @@
 <div align="center">
 
 <!-- HTML LOGO AND LINK -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  title="Visit HTML5 Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 15px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  title="Visit HTML5 Documentation" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   </a>
   <!-- CSS LOGO AND LINK -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Visit CSS3 Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 15px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Visit CSS3 Documentation" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   </a>
   <!-- JAVASCRIPT LOGO AND LINK -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Visit JavaScript Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 15px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Visit JavaScript Documentation" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" height="40" alt="JavaScript" />
   </a>
   <!-- PHP LOGO AND LINK -->
-  <a href="https://www.php.net/" target="_blank" title="Visit PHP Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" style="margin: 0 15px;" />
+  <a href="https://www.php.net/" target="_blank" title="Visit PHP Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   </a>
   <!-- VUE.JS LOGO AND LINK -->
-  <a href="https://vuejs.org/" target="_blank" title="Visit Vue.js Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" style="margin: 0 15px;" />
+  <a href="https://vuejs.org/" target="_blank" title="Visit Vue.js Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
   </a>
   <!-- LARAVEL LOGO AND LINK -->
-  <a href="https://laravel.com/" target="_blank" title="Visit Laravel Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" style="margin: 0 15px;" />
+  <a href="https://laravel.com/" target="_blank" title="Visit Laravel Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   </a>
   <!-- MYSQL LOGO AND LINK -->
-  <a href="https://www.mysql.com/" target="_blank" title="Visit MySQL Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 15px;" />
+  <a href="https://www.mysql.com/" target="_blank" title="Visit MySQL Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   </a>
   <!-- SASS LOGO AND LINK -->
-  <a href="https://sass-lang.com/" target="_blank" title="Visit Sass Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" style="margin: 0 15px;" />
+  <a href="https://sass-lang.com/" target="_blank" title="Visit Sass Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
   </a>
   <!-- BOOTSTRAP LOGO AND LINK -->
-  <a href="https://getbootstrap.com/" target="_blank" title="Visit Bootstrap Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="margin: 0 15px;" />
+  <a href="https://getbootstrap.com/" target="_blank" title="Visit Bootstrap Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   </a>
   <!-- AXIOS LOGO AND LINK -->
-  <a href="https://axios-http.com/" target="_blank" title="Visit Axios Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="40" alt="Axios" style="margin: 0 15px;" />
+  <a href="https://axios-http.com/" target="_blank" title="Visit Axios Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="40" alt="Axios" />
   </a>
   <!-- POSTMAN LOGO AND LINK -->
-  <a href="https://www.postman.com/" target="_blank" title="Visit Postman Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" style="margin: 0 15px;" />
+  <a href="https://www.postman.com/" target="_blank" title="Visit Postman Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   </a>
   <!-- GIT LOGO AND LINK -->
-  <a href="https://git-scm.com/" target="_blank" title="Visit Git Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 15px;" />
+  <a href="https://git-scm.com/" target="_blank" title="Visit Git Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   </a>
   <!-- VS CODE LOGO AND LINK -->
-  <a href="https://code.visualstudio.com/" target="_blank" title="Visit VS Code Official Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 15px;" />
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visit VS Code Official Website" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   </a>
   
 </div>
