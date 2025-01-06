@@ -1,45 +1,91 @@
 <div align="center">
-
+<!-- WELCOME GIF -->
 <img src="./gif/github-profile.gif" alt="Welcome GIF" width="70%"/>
 
 # Jose Manuel - Full Stack Web Developer | Continuous Learner 🌱
 
+<!-- PROFILE VIEWS AND MY LINKEDIN PROFILE LINK -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseManuel-Feliz&style=flat&color=blue&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuel-felizgarcia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuel-felizgarcia/ "Linkedin Profile")
 
 </div>
+<!-- INTRO DESCRIPTION -->
 
 > 👨‍💻 **Junior Full-Stack Web Developer focused on continuous improvement**
 >
 > 💻 Proficient in HTML, CSS, JavaScript, PHP, Vue.js, Laravel, REST APIs, Sass, and Bootstrap.
 >
-> 🌱 I strive to keep learning and growing both as a developer and as a person.
+> 🌱 I am committed to continuous learning and improvement as a developer.
 >
-> 🤝 I value teamwork, tackling challenges with a positive mindset, and learning from every collaboration.
->
-> 🔧 Outside of coding, I’m deeply interested in mechanics and baseball. I enjoy learning how machines function and diving into the practical aspects of mechanical systems.
+> ⚡ Outside of coding, I’m deeply interested in mechanics and baseball. I enjoy learning how machines function and diving into the practical aspects of mechanical systems.
 
 ---
+
+<!-- TECH STACK SECTION -->
 
 ## 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="40" alt="Axios" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 15px;" />
+
+<!-- HTML LOGO AND LINK -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  title="Visit HTML5 Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 15px;" />
+  </a>
+  <!-- CSS LOGO AND LINK -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Visit CSS3 Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 15px;" />
+  </a>
+  <!-- JAVASCRIPT LOGO AND LINK -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Visit JavaScript Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 15px;" />
+  </a>
+  <!-- PHP LOGO AND LINK -->
+  <a href="https://www.php.net/" target="_blank" title="Visit PHP Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" style="margin: 0 15px;" />
+  </a>
+  <!-- VUE.JS LOGO AND LINK -->
+  <a href="https://vuejs.org/" target="_blank" title="Visit Vue.js Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" style="margin: 0 15px;" />
+  </a>
+  <!-- LARAVEL LOGO AND LINK -->
+  <a href="https://laravel.com/" target="_blank" title="Visit Laravel Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" style="margin: 0 15px;" />
+  </a>
+  <!-- MYSQL LOGO AND LINK -->
+  <a href="https://www.mysql.com/" target="_blank" title="Visit MySQL Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 15px;" />
+  </a>
+  <!-- SASS LOGO AND LINK -->
+  <a href="https://sass-lang.com/" target="_blank" title="Visit Sass Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" style="margin: 0 15px;" />
+  </a>
+  <!-- BOOTSTRAP LOGO AND LINK -->
+  <a href="https://getbootstrap.com/" target="_blank" title="Visit Bootstrap Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="margin: 0 15px;" />
+  </a>
+  <!-- AXIOS LOGO AND LINK -->
+  <a href="https://axios-http.com/" target="_blank" title="Visit Axios Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="40" alt="Axios" style="margin: 0 15px;" />
+  </a>
+  <!-- POSTMAN LOGO AND LINK -->
+  <a href="https://www.postman.com/" target="_blank" title="Visit Postman Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" style="margin: 0 15px;" />
+  </a>
+  <!-- GIT LOGO AND LINK -->
+  <a href="https://git-scm.com/" target="_blank" title="Visit Git Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 15px;" />
+  </a>
+  <!-- VS CODE LOGO AND LINK -->
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visit VS Code Official Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 15px;" />
+  </a>
+  
 </div>
 
 ---
+
+<!-- PROJECTS SECTION -->
 
 ## 🎥 **Featured Projects**
 
@@ -51,7 +97,7 @@
 
 ---
 
-### **PetShop - E-commerce for Pets**
+### **Php-opp-2 - E-commerce for Pets**
 
 ---
 
@@ -63,10 +109,13 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
+  <!-- GITHUB STATS -->
   <img src="https://github-readme-stats.vercel.app/api?username=JoseManuel-Feliz&theme=blue-green&include_all_commits=true&count_private=true" width="400px" height="200px" alt="GitHub Stats" />
 
+  <!-- TOP LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel-Feliz&theme=blue-green&layout=compact&include_all_commits=true&count_private=true" width="400px" height="200px" alt="Top Languages" />
 
+<!-- STREAK STATS -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuel-Feliz&theme=blue-green" width="400px" height="200px" alt="Streak Stats" />
 
 </div>
