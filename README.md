@@ -64,8 +64,8 @@ The restaurant dashboard includes interactive charts for sales analysis, providi
 
 **Technologies:** HTML, CSS, JavaScript, PHP, Vue.js, Laravel, MySQL, Bootstrap, SCSS, Axios, Braintree, Chart.js.
 
-🔗 [View DeliveBoo Frontend Repo](https://github.com/oseManuel-Feliz/deliveboo-frontend)
-🔗 [View DeliveBoo Backend Repo](https://github.com/oseManuel-Feliz/deliveboo-backend)
+🔗 [View DeliveBoo Frontend Repo](https://github.com/JoseManuel-Feliz/deliveboo-frontend)
+🔗 [View DeliveBoo Backend Repo](https://github.com/JoseManuel-Feliz/deliveboo-backend)
 
 ---
 
