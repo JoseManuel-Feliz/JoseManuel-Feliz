@@ -58,13 +58,33 @@
 
 ### **DeliveBoo - Food Delivery Platform**
 
+DeliveBoo is a food delivery platform that integrates Laravel for server-side logic and Vue.js for a responsive and intuitive user interface. The application allows restaurant owners to register their business, organize menus, and track orders in real time, while customers can browse restaurants by cuisine type, view detailed menus, and complete orders using an integrated payment system via Braintree.
+
+The restaurant dashboard includes interactive charts for sales analysis, providing actionable insights into restaurant performance. The interface is fully responsive, ensuring a seamless experience across desktop, tablet, and smartphone devices. Additionally, communication between the frontend and backend is handled through AJAX calls, ensuring consistent data synchronization.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, Vue.js, Laravel, MySQL, Bootstrap, SCSS, Axios, Braintree, Chart.js.
+🔗 [View DeliveBoo Frontend Repo](https://github.com/oseManuel-Feliz/deliveboo-frontend)
+🔗 [View DeliveBoo Backend Repo](https://github.com/oseManuel-Feliz/deliveboo-backend)
+
 ---
 
-### **Php-opp-2 - E-commerce for Pets**
+### **PHP-OOP-2 - E-commerce for Pets (Work in Progress)**
+
+PHP-OOP-2 is an e-commerce backend for selling pet products, built using PHP with object-oriented programming (OOP) principles. The project includes functionalities such as user login and logout, a 20% discount for authenticated users, and a modular structure for efficient code organization.
+
+Products are structured using classes and subclasses (e.g., Product, Category, Food, Toy, Bed) to ensure scalability and clarity. Users can browse products displayed in a grid format, with both original and discounted prices visible for registered users. While the project is functional, I am actively working on adding additional features and refining the current implementation to enhance its usability and performance.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, Vue.js, Bootstrap.
+🔗 [View PHP-OOP-2 Repo](https://github.com/JoseManuel-Feliz/php-oop-2)
 
 ---
 
 ### **Boolflix - Web App**
+
+Boolflix is a web application inspired by Netflix, designed for managing and displaying multimedia content. Users can search for movies, TV shows, and actors, with results organized into navigable sections. Each card displays essential information, including title, description, image, and rating (converted into stars). Data is dynamically retrieved and managed using the TMDB API and Axios.
+
+**Technologies:** HTML, CSS, JvaScript, Vue.js, Bootstrap, Axios, TMDB API.
+🔗 [View Boolflix Repo](https://github.com/JoseManuel-Feliz/boolflix)
 
 ---
 
